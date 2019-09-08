@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511430307146.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2644408555",
+    "id" : "9BA92D86",
+    "lastKnownWriteTime" : 1511430327,
+    "last_content_update" : 1511430327700,
+    "path" : "~/Dropbox/dev/R/Rtests/gram-schmidt.R",
+    "project_path" : "gram-schmidt.R",
+    "properties" : {
+        "cursorPosition" : "60,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

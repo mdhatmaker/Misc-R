@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511430435095.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1797856782",
+    "id" : "8F3A3C25",
+    "lastKnownWriteTime" : 1511430478,
+    "last_content_update" : 1511430478665,
+    "path" : "~/Dropbox/dev/R/Rtests/eigenvalues and eigenvectors.R",
+    "project_path" : "eigenvalues and eigenvectors.R",
+    "properties" : {
+        "cursorPosition" : "48,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

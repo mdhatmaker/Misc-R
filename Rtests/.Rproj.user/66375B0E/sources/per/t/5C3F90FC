@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511430591735.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3155711771",
+    "id" : "5C3F90FC",
+    "lastKnownWriteTime" : 1511430642,
+    "last_content_update" : 1511430642737,
+    "path" : "~/Dropbox/dev/R/Rtests/solving_linear_equations.R",
+    "project_path" : "solving_linear_equations.R",
+    "properties" : {
+        "cursorPosition" : "66,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

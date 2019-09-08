@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515552599587.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "45EE09AF",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1515552599587,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A3DEBA9D",
+        "caption" : "TRXETH.1d.DF",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=TRXETH.1d.DF&cache_key=A3DEBA9D",
+        "displayedObservations" : 72,
+        "environment" : "",
+        "object" : "TRXETH.1d.DF",
+        "preview" : 0,
+        "totalObservations" : 72,
+        "variables" : 6
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

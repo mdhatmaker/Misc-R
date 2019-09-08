@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526751863606.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1764981485",
+    "id" : "39264968",
+    "lastKnownWriteTime" : 1526752025,
+    "last_content_update" : 1526752025783,
+    "path" : "~/Dropbox/dev/R/Rtests/test3.R",
+    "project_path" : "test3.R",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

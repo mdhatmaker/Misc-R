@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511430518160.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2674945300",
+    "id" : "73084947",
+    "lastKnownWriteTime" : 1511430563,
+    "last_content_update" : 1511430563147,
+    "path" : "~/Dropbox/dev/R/Rtests/properties of determinants.R",
+    "project_path" : "properties of determinants.R",
+    "properties" : {
+        "cursorPosition" : "95,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

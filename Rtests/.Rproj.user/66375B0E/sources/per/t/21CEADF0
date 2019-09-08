@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511432286111.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3865131944",
+    "id" : "21CEADF0",
+    "lastKnownWriteTime" : 1511493890,
+    "last_content_update" : 1511493890251,
+    "path" : "~/Dropbox/dev/R/Rtests/quantmod1.R",
+    "project_path" : "quantmod1.R",
+    "properties" : {
+        "cursorPosition" : "38,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

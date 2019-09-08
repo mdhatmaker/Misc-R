@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511430106560.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "51452870",
+    "id" : "829DC270",
+    "lastKnownWriteTime" : 1511430159,
+    "last_content_update" : 1511430159701,
+    "path" : "~/Dropbox/dev/R/Rtests/matrix_inversion_by_elementary_row_operations.R",
+    "project_path" : "matrix_inversion_by_elementary_row_operations.R",
+    "properties" : {
+        "cursorPosition" : "48,20",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

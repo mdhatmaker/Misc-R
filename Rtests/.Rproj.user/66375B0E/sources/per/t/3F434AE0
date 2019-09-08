@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511430195910.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1065731291",
+    "id" : "3F434AE0",
+    "lastKnownWriteTime" : 1511430223,
+    "last_content_update" : 1511430223314,
+    "path" : "~/Dropbox/dev/R/Rtests/evaluation_of_determinants.R",
+    "project_path" : "evaluation_of_determinants.R",
+    "properties" : {
+        "cursorPosition" : "65,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

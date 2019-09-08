@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511430004529.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3957070180",
+    "id" : "E9149485",
+    "lastKnownWriteTime" : 1511430068,
+    "last_content_update" : 1511430068012,
+    "path" : "~/Dropbox/dev/R/Rtests/generalized_inverse.R",
+    "project_path" : "generalized_inverse.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
